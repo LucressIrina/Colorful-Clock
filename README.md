@@ -1,9 +1,7 @@
+## Colorful Clock — Real-Time Web Application
 ***Real-time digital clock built with HTML, CSS, and JavaScript demonstrating DOM manipulation, UI updates, and responsive front-end design.
 
-## Colorful Clock — Real-Time Web Application
-
 # Project Overview
-
 This project is a lightweight real-time digital clock built with HTML, CSS, and JavaScript. While simple in concept, it demonstrates core front-end development fundamentals, including DOM manipulation, real-time data rendering, responsive UI design, and animation.
 
 The application dynamically updates the current time every second and visually enhances the display using gradient animations and modern CSS effects.
@@ -11,7 +9,6 @@ The application dynamically updates the current time every second and visually e
 This project reflects my ability to build interactive, user-facing web applications and translate logic into clean, functional UI behavior.
 
 # Business / Practical Value
-
 Although minimal, this project demonstrates foundational skills used in real-world applications:
 
  - Real-time UI updates (used in dashboards, monitoring tools, and analytics apps)
