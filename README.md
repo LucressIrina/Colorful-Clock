@@ -1,4 +1,4 @@
-## Colorful Clock — Real-Time Web Application
+## Real Time Web Clock Engine
 ***Real-time digital clock built with HTML, CSS, and JavaScript demonstrating DOM manipulation, UI updates, and responsive front-end design.
 
 Link - https://grand-dusk-5f46b8.netlify.app/
